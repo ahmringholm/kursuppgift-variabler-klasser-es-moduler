@@ -5,7 +5,7 @@ export class Person {
         this.age = 29;
         this.isActive = true;
         this.hobbies = ["programmering", "grafisk design", "film"];
-        this.meta = { role: "student", country: "Sweden" }
+        this.meta = { role: "student", country: "Sverige" }
     }
 
     getFullName() {
